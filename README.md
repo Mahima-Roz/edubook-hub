@@ -3,7 +3,7 @@
 Project Overview
 
 EduBook Hub is a web-based knowledge sharing platform designed to improve book accessibility among students in Bangladesh. The system enables users to donate, borrow, or purchase books at minimal cost while reducing book wastage. The platform encourages reading habits through rewards, premium membership, and community events while ensuring secure, system-managed interactions between users.
-
+![image_alt](https://github.com/Mahima-Roz/edubook-hub/blob/616f896879606e6c0eaa29530f96206bec1d32ac/Admin%20Panel.jpg)
 🛠 Technologies & Tools
 
 Git – Version control system for tracking project changes
@@ -236,4 +236,5 @@ Mobile application development
 Integration with more digital payment systems
 
 Online reading clubs and virtual book communities
+
 
